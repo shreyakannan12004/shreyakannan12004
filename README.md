@@ -2,7 +2,7 @@
   * I’m interested in web design, ui/ux design
   * I’m currently learning AIML,Fullstack
   * I’m looking to collaborate on Fullstack Projects
-  * How to reach me ...
+  
 
   🍵 Fun fact: My best ideas come after a strong cup of Tea.
 
